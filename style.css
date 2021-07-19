@@ -1,0 +1,27 @@
+  
+h2{
+    
+    color:darkblue;
+    font-family: sans-serif;   
+    font-family: Helvetica, sans-serif;
+    font-style:italic;
+    
+}
+th{
+    color:crimson;
+    font-family: Impact, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+    background-color:aqua;
+}
+
+td{
+    color:darkslateblue;
+    font-family: inherit;
+    font-style: italic;
+}
+table{
+    border-collapse: collapse;
+    font-family: cursive;
+}
